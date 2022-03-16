@@ -1,0 +1,312 @@
+code_left,muni,code_right,hcd,google_region
+005,Alajärvi,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+009,Alavieska,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+010,Alavus,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+016,Asikkala,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+018,Askola,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+019,Aura,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+020,Akaa,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+035,Brändö,hcd00,"""Ahvenanmaa""",
+043,Eckerö,hcd00,"""Ahvenanmaa""",
+046,Enonkoski,hcd11,"""Itä-Savon SHP""",
+047,Enontekiö,hcd21,"""Lapin SHP""",Lapland
+049,Espoo,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+050,Eura,hcd04,"""Satakunnan SHP""",Satakunta
+051,Eurajoki,hcd04,"""Satakunnan SHP""",Satakunta
+052,Evijärvi,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+060,Finström,hcd00,"""Ahvenanmaa""",
+061,Forssa,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+062,Föglö,hcd00,"""Ahvenanmaa""",
+065,Geta,hcd00,"""Ahvenanmaa""",
+069,Haapajärvi,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+071,Haapavesi,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+072,Hailuoto,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+074,Halsua,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+075,Hamina,hcd08,"""Kymenlaakson SHP""",Kymenlaakso
+076,Hammarland,hcd00,"""Ahvenanmaa""",
+077,Hankasalmi,hcd14,"""Keski-Suomen SHP""",Central Finland
+078,Hanko,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+079,Harjavalta,hcd04,"""Satakunnan SHP""",Satakunta
+081,Hartola,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+082,Hattula,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+086,Hausjärvi,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+090,Heinävesi,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+091,Helsinki,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+092,Vantaa,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+097,Hirvensalmi,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+098,Hollola,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+099,Honkajoki,hcd04,"""Satakunnan SHP""",Satakunta
+102,Huittinen,hcd04,"""Satakunnan SHP""",Satakunta
+103,Humppila,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+105,Hyrynsalmi,hcd19,"""Kainuun SHP""",Kainuu
+106,Hyvinkää,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+108,Hämeenkyrö,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+109,Hämeenlinna,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+111,Heinola,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+139,Ii,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+140,Iisalmi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+142,Iitti,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+143,Ikaalinen,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+145,Ilmajoki,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+146,Ilomantsi,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+148,Inari,hcd21,"""Lapin SHP""",Lapland
+149,Ingå,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+151,Isojoki,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+152,Isokyrö,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+153,Imatra,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+165,Janakkala,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+167,Joensuu,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+169,Jokioinen,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+170,Jomala,hcd00,"""Ahvenanmaa""",
+171,Joroinen,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+172,Joutsa,hcd14,"""Keski-Suomen SHP""",Central Finland
+176,Juuka,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+177,Juupajoki,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+178,Juva,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+179,Jyväskylä,hcd14,"""Keski-Suomen SHP""",Central Finland
+181,Jämijärvi,hcd04,"""Satakunnan SHP""",Satakunta
+182,Jämsä,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+186,Järvenpää,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+202,Kaarina,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+204,Kaavi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+205,Kajaani,hcd19,"""Kainuun SHP""",Kainuu
+208,Kalajoki,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+211,Kangasala,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+213,Kangasniemi,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+214,Kankaanpää,hcd04,"""Satakunnan SHP""",Satakunta
+216,Kannonkoski,hcd14,"""Keski-Suomen SHP""",Central Finland
+217,Kannus,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+218,Karijoki,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+224,Karkkila,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+226,Karstula,hcd14,"""Keski-Suomen SHP""",Central Finland
+230,Karvia,hcd04,"""Satakunnan SHP""",Satakunta
+231,Kaskinen,hcd16,"""Vaasan SHP""",Ostrobothnia
+232,Kauhajoki,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+233,Kauhava,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+235,Kauniainen,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+236,Kaustinen,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+239,Keitele,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+240,Kemi,hcd20,"""Länsi-Pohjan SHP""",
+241,Keminmaa,hcd20,"""Länsi-Pohjan SHP""",
+244,Kempele,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+245,Kerava,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+249,Keuruu,hcd14,"""Keski-Suomen SHP""",Central Finland
+250,Kihniö,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+256,Kinnula,hcd14,"""Keski-Suomen SHP""",Central Finland
+257,Kirkkonummi,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+260,Kitee,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+261,Kittilä,hcd21,"""Lapin SHP""",Lapland
+263,Kiuruvesi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+265,Kivijärvi,hcd14,"""Keski-Suomen SHP""",Central Finland
+271,Kokemäki,hcd04,"""Satakunnan SHP""",Satakunta
+272,Kokkola,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+273,Kolari,hcd21,"""Lapin SHP""",Lapland
+275,Konnevesi,hcd14,"""Keski-Suomen SHP""",Central Finland
+276,Kontiolahti,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+280,Korsnäs,hcd16,"""Vaasan SHP""",Ostrobothnia
+284,Koski_Tl,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+285,Kotka,hcd08,"""Kymenlaakson SHP""",Kymenlaakso
+286,Kouvola,hcd08,"""Kymenlaakson SHP""",Kymenlaakso
+287,Kristinestad,hcd16,"""Vaasan SHP""",Ostrobothnia
+288,Kronoby,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+290,Kuhmo,hcd19,"""Kainuun SHP""",Kainuu
+291,Kuhmoinen,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+295,Kumlinge,hcd00,"""Ahvenanmaa""",
+297,Kuopio,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+300,Kuortane,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+301,Kurikka,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+304,Kustavi,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+305,Kuusamo,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+309,Outokumpu,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+312,Kyyjärvi,hcd14,"""Keski-Suomen SHP""",Central Finland
+316,Kärkölä,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+317,Kärsämäki,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+318,Kökar,hcd00,"""Ahvenanmaa""",
+320,Kemijärvi,hcd21,"""Lapin SHP""",Lapland
+322,Kimitoön,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+398,Lahti,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+399,Laihia,hcd16,"""Vaasan SHP""",Ostrobothnia
+400,Laitila,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+402,Lapinlahti,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+403,Lappajärvi,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+405,Lappeenranta,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+407,Lapinjärvi,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+408,Lapua,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+410,Laukaa,hcd14,"""Keski-Suomen SHP""",Central Finland
+416,Lemi,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+417,Lemland,hcd00,"""Ahvenanmaa""",
+418,Lempäälä,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+420,Leppävirta,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+421,Lestijärvi,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+422,Lieksa,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+423,Lieto,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+425,Liminka,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+426,Liperi,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+430,Loimaa,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+433,Loppi,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+434,Loviisa,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+435,Luhanka,hcd14,"""Keski-Suomen SHP""",Central Finland
+436,Lumijoki,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+438,Lumparland,hcd00,"""Ahvenanmaa""",
+440,Larsmo,hcd16,"""Vaasan SHP""",Ostrobothnia
+441,Luumäki,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+444,Lohja,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+445,Pargas,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+475,Malax,hcd16,"""Vaasan SHP""",Ostrobothnia
+478,Mariehamn,hcd00,"""Ahvenanmaa""",
+480,Marttila,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+481,Masku,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+483,Merijärvi,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+484,Merikarvia,hcd04,"""Satakunnan SHP""",Satakunta
+489,Miehikkälä,hcd08,"""Kymenlaakson SHP""",Kymenlaakso
+491,Mikkeli,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+494,Muhos,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+495,Multia,hcd14,"""Keski-Suomen SHP""",Central Finland
+498,Muonio,hcd21,"""Lapin SHP""",Lapland
+499,Korsholm,hcd16,"""Vaasan SHP""",Ostrobothnia
+500,Muurame,hcd14,"""Keski-Suomen SHP""",Central Finland
+503,Mynämäki,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+504,Myrskylä,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+505,Mäntsälä,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+507,Mäntyharju,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+508,Mänttä-Vilppula,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+529,Naantali,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+531,Nakkila,hcd04,"""Satakunnan SHP""",Satakunta
+535,Nivala,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+536,Nokia,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+538,Nousiainen,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+541,Nurmes,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+543,Nurmijärvi,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+545,Närpes,hcd16,"""Vaasan SHP""",Ostrobothnia
+560,Orimattila,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+561,Oripää,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+562,Orivesi,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+563,Oulainen,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+564,Oulu,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+576,Padasjoki,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+577,Paimio,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+578,Paltamo,hcd19,"""Kainuun SHP""",Kainuu
+580,Parikkala,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+581,Parkano,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+583,Pelkosenniemi,hcd21,"""Lapin SHP""",Lapland
+584,Perho,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+588,Pertunmaa,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+592,Petäjävesi,hcd14,"""Keski-Suomen SHP""",Central Finland
+593,Pieksämäki,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+595,Pielavesi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+598,Jakobstad,hcd16,"""Vaasan SHP""",Ostrobothnia
+599,Pedersöre,hcd16,"""Vaasan SHP""",Ostrobothnia
+601,Pihtipudas,hcd14,"""Keski-Suomen SHP""",Central Finland
+604,Pirkkala,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+607,Polvijärvi,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+608,Pomarkku,hcd04,"""Satakunnan SHP""",Satakunta
+609,Pori,hcd04,"""Satakunnan SHP""",Satakunta
+611,Pornainen,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+614,Posio,hcd21,"""Lapin SHP""",Lapland
+615,Pudasjärvi,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+616,Pukkila,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+619,Punkalaidun,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+620,Puolanka,hcd19,"""Kainuun SHP""",Kainuu
+623,Puumala,hcd10,"""Etelä-Savon SHP""",Southern Savonia
+624,Pyhtää,hcd08,"""Kymenlaakson SHP""",Kymenlaakso
+625,Pyhäjoki,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+626,Pyhäjärvi,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+630,Pyhäntä,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+631,Pyhäranta,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+635,Pälkäne,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+636,Pöytyä,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+638,Porvoo,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+678,Raahe,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+680,Raisio,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+681,Rantasalmi,hcd11,"""Itä-Savon SHP""",
+683,Ranua,hcd21,"""Lapin SHP""",Lapland
+684,Rauma,hcd04,"""Satakunnan SHP""",Satakunta
+686,Rautalampi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+687,Rautavaara,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+689,Rautjärvi,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+691,Reisjärvi,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+694,Riihimäki,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+697,Ristijärvi,hcd19,"""Kainuun SHP""",Kainuu
+698,Rovaniemi,hcd21,"""Lapin SHP""",Lapland
+700,Ruokolahti,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+702,Ruovesi,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+704,Rusko,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+707,Rääkkylä,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+710,Raasepori,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+729,Saarijärvi,hcd14,"""Keski-Suomen SHP""",Central Finland
+732,Salla,hcd21,"""Lapin SHP""",Lapland
+734,Salo,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+736,Saltvik,hcd00,"""Ahvenanmaa""",
+738,Sauvo,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+739,Savitaipale,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+740,Savonlinna,hcd11,"""Itä-Savon SHP""",
+742,Savukoski,hcd21,"""Lapin SHP""",Lapland
+743,Seinäjoki,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+746,Sievi,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+747,Siikainen,hcd04,"""Satakunnan SHP""",Satakunta
+748,Siikajoki,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+749,Siilinjärvi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+751,Simo,hcd20,"""Länsi-Pohjan SHP""",
+753,Sipoo,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+755,Siuntio,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+758,Sodankylä,hcd21,"""Lapin SHP""",Lapland
+759,Soini,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+761,Somero,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+762,Sonkajärvi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+765,Sotkamo,hcd19,"""Kainuun SHP""",Kainuu
+766,Sottunga,hcd00,"""Ahvenanmaa""",
+768,Sulkava,hcd11,"""Itä-Savon SHP""",
+771,Sund,hcd00,"""Ahvenanmaa""",
+777,Suomussalmi,hcd19,"""Kainuun SHP""",Kainuu
+778,Suonenjoki,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+781,Sysmä,hcd07,"""Päijät-Hämeen SHP""",Päijänne Tavastia
+783,Säkylä,hcd04,"""Satakunnan SHP""",Satakunta
+785,Vaala,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+790,Sastamala,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+791,Siikalatva,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+831,Taipalsaari,hcd09,"""Etelä-Karjalan SHP""",South Karelia
+832,Taivalkoski,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+833,Taivassalo,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+834,Tammela,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+837,Tampere,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+844,Tervo,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+845,Tervola,hcd20,"""Länsi-Pohjan SHP""",
+846,Teuva,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+848,Tohmajärvi,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+849,Toholampi,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+850,Toivakka,hcd14,"""Keski-Suomen SHP""",Central Finland
+851,Tornio,hcd20,"""Länsi-Pohjan SHP""",
+853,Turku,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+854,Pello,hcd21,"""Lapin SHP""",Lapland
+857,Tuusniemi,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+858,Tuusula,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+859,Tyrnävä,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+886,Ulvila,hcd04,"""Satakunnan SHP""",Satakunta
+887,Urjala,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+889,Utajärvi,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+890,Utsjoki,hcd21,"""Lapin SHP""",Lapland
+892,Uurainen,hcd14,"""Keski-Suomen SHP""",Central Finland
+893,Nykarleby,hcd16,"""Vaasan SHP""",Ostrobothnia
+895,Uusikaupunki,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+905,Vaasa,hcd16,"""Vaasan SHP""",Ostrobothnia
+908,Valkeakoski,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+911,Valtimo,hcd12,"""Pohjois-Karjalan SHP""",North Karelia
+915,Varkaus,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+918,Vehmaa,hcd03,"""Varsinais-Suomen SHP""",Southwest Finland
+921,Vesanto,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+922,Vesilahti,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+924,Veteli,hcd17,"""Keski-Pohjanmaan SHP""",Central Ostrobothnia
+925,Vieremä,hcd13,"""Pohjois-Savon SHP""",Northern Savonia
+927,Vihti,hcd25,"""Helsingin ja Uudenmaan SHP""",Uusimaa
+931,Viitasaari,hcd14,"""Keski-Suomen SHP""",Central Finland
+934,Vimpeli,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+935,Virolahti,hcd08,"""Kymenlaakson SHP""",Kymenlaakso
+936,Virrat,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+941,Vårdö,hcd00,"""Ahvenanmaa""",
+946,Vöyri,hcd16,"""Vaasan SHP""",Ostrobothnia
+976,Ylitornio,hcd20,"""Länsi-Pohjan SHP""",
+977,Ylivieska,hcd18,"""Pohjois-Pohjanmaan SHP""",Northern Ostrobothnia
+980,Ylöjärvi,hcd06,"""Pirkanmaan SHP""",Pirkanmaa
+981,Ypäjä,hcd05,"""Kanta-Hämeen SHP""",Tavastia Proper
+989,Ähtäri,hcd15,"""Etelä-Pohjanmaan SHP""",Southern Ostrobothnia
+992,Äänekoski,hcd14,"""Keski-Suomen SHP""",Central Finland

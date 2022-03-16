@@ -1,0 +1,11 @@
+delete all the quotion marks
+sed -i 's/"//' file.txt
+
+delete all the (
+sed -i 's/(//' file.txt
+
+delete all the (
+sed -i 's/)//' file.txt
+
+replace double spaces with space
+sed -i -e 's/  / /g' file.txt
