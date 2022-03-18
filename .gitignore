@@ -127,4 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-public-mobility-data/
+public_mobility_data/
