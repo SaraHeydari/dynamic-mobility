@@ -131,3 +131,4 @@ public_mobility_data/
 
 #results produces by scripts
 results/*
+!results/.keep
