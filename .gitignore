@@ -91,7 +91,6 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
 # Celery stuff
@@ -132,3 +131,6 @@ public_mobility_data/
 #results produces by scripts
 results/*
 !results/.keep
+
+# code with access to mobile data
+compare_weekly_error_full_version.ipynb
